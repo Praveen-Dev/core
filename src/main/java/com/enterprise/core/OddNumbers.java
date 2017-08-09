@@ -1,7 +1,8 @@
 package com.enterprise.core;
 
 public class OddNumbers {
-	public int findSum(int[] intArray) {
+	public int findSum(int[] intArray) 
+	{
 		return 0;
 	}
 	
