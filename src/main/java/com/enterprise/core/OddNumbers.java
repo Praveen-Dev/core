@@ -7,7 +7,8 @@ public class OddNumbers {
 	
 	
 	public float findAverage(int[] intArray) {
-		return 1;
+		
+		return 0;
 	
 	}
 
